@@ -44,5 +44,5 @@
 </h5>
 
 <h2>🏇Activities🏇</h2>
-<div><img src="https://github-readme-stats.vercel.app/api?username=SegyongLee&theme=dracula&show_icons=true"></img></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=Segyong56&theme=dracula&show_icons=true"></img></div>
 
