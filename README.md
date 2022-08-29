@@ -44,7 +44,7 @@
 
 <h2>🏇Activities🏇</h2>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Segyong56&theme=dracula&show_icons=true"></img></div>
-
+-- 
 <a href="https://www.rocketpunch.com/@segyong56/">
 <img src="https://play-lh.googleusercontent.com/H_J5q3iYw6UVr-lnHIyhEphco8rcBMP6aKR9kstJpTz8Y2E_2VgFFiwLilcLrX2ArOB7" alt="rocket" width="40" />
 </a>
