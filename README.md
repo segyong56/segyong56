@@ -2,15 +2,7 @@
 
 <h3> Junior Front-End Engineer</h4>
 <li>A Junior Front engineer, mainly uses React.js, Vue.js</li>
-<li>I've worked as a occupational therapist for five years</li>
-<h3> Interested </h3>
-
-<div>
-  <li> Node.js and how it operates</li>
-  <li> Design Restful API</li>
-  <li> CI/CD</li>
-  <li> Communication skills</li>
-</div>
+<li>I worked as a occupational therapist for five years.</li>
 
 <h2>🛠Stack🛠</h2>
 </br>
