@@ -8,7 +8,7 @@
 Working On 
 ---
 
-🟡 2022.09 ~ 재직중 코그넷나인 / 스마트케어(재가요양서비스) / 헬스케어 / SW Developer & Application Achitecht
+🟡 2022.09 ~ 재직중 코그넷나인 / 스마트케어(재가요양서비스) / 헬스케어 / SW Developer & Application Achitecht <br />
 🟠 2021.12 ~ 2022.08, 옐로시스(앱에서 직접 소변검사결과진단 서비스) / 헬스케어 / SW Developer
 
 <h2>🏇Activities🏇</h2>
