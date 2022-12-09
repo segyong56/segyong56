@@ -5,10 +5,6 @@
 <li>A Junior Front engineer, mainly uses React.js, Vue.js</li>
 <li>I worked as a occupational therapist for five years.</li>
 
-Working On 
----
-
-
 
 <h2>🏇Activities🏇</h2>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Segyong56&theme=dracula&show_icons=true"></img></div>
