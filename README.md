@@ -8,8 +8,7 @@
 Working On 
 ---
 
-🟡 2022.09 ~ 재직중, 코그넷나인,스마트헬스케어(재가요양서비스) / 헬스케어 / SW Developer & App Architect <br />
-🟠 2021.12 ~ 2022.08, 옐로시스,(소변검사진단서비스) / 헬스케어 / SW Developer
+
 
 <h2>🏇Activities🏇</h2>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Segyong56&theme=dracula&show_icons=true"></img></div>
