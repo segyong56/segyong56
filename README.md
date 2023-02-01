@@ -11,6 +11,3 @@
 
 --- 
 
-<a href="https://www.rocketpunch.com/@segyong56/">
-<img src="https://play-lh.googleusercontent.com/H_J5q3iYw6UVr-lnHIyhEphco8rcBMP6aKR9kstJpTz8Y2E_2VgFFiwLilcLrX2ArOB7" alt="rocket" width="40" />
-</a>
