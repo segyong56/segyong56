@@ -2,7 +2,7 @@
 
 <h3>👩🏻‍💻 Software Developer</h4>
 <li>Interested in software architects and healthcare platforms</li>
-<li>A Junior Front engineer, mainly uses React.js, Vue.js</li>
+<li>FrontEnd Developer, mainly uses React.js, Vue.js</li>
 <li>I worked as a occupational therapist for five years.</li>
 
 
