@@ -6,7 +6,7 @@
 <li>I've worked as an occupational therapist🏥 for five years.</li>
 
 
-<h4>I've worked as a software developer(frontend)</h4>
+<h4>I'm working as a software developer(frontend)</h4>
 
 <li> <strong>2022.09 ~ 재직중</strong>   아주큐엠에스 * 아주코그넷나인(아주그룹IT부분) / 광주 스마트 케어 프로젝트(방문간호시스템)</li>
 <li> <strong>2021.12 ~ 2022.08</strong>  (주)옐로시스 / 홈 스마트 소변 검사 앱</li>
