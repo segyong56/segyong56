@@ -3,7 +3,7 @@
 <h3>👩🏻‍💻 front-end Developer</h4>
 <li>Interested in software architects and healthcare platforms</li>
 <li>FrontEnd Developer, mainly uses React.js, Vue.js</li>
-<li>I've worked as an occupational therapist for five years.</li>
+<li>I've worked as an occupational therapist🏥 for five years.</li>
 
 
 <h4>I've worked as a software developer(frontend)</h4>
