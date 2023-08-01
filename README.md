@@ -15,7 +15,7 @@
 
 <h4>I'm working as a software developer(frontend)</h4>
 
-<li> <strong>2022.09 ~ 재직중</strong>   healthcare platform / 광주 고령자 스마트 케어(방문간호시스템)</li>
+<li> <strong>2022.09 ~ 재직중</strong>   healthcare platform / 광주 고령자 스마트 케어(재택의료서비스)</li>
 <li> <strong>2021.12 ~ 2022.08</strong>  healthcare platform / 홈 스마트 소변 검사 앱</li>
 
 <h2>🏇Activities🏇</h2>
