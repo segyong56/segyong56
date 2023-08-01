@@ -12,11 +12,6 @@
 <img src="https://img.shields.io/badge/Scss-green?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Scss-green?style=for-the-badge&logo=Sass&logoColor=CC6699"/> -->
 
-<h4>I'm working as a software developer(frontend)</h4>
-
-<li> <strong>2022.09 ~ 재직중</strong>   healthcare platform / 광주 스마트 케어 프로젝트(방문간호시스템)</li>
-<li> <strong>2021.12 ~ 2022.08</strong>  healthcare platform / 홈 스마트 소변 검사 앱</li>
-
 <h2>🏇Activities🏇</h2>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Segyong56&theme=dracula&show_icons=true"></img></div>
 
