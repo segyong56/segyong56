@@ -2,7 +2,6 @@
 
 <h3>👩🏻‍💻 front-end Developer</h4>
 <li>FrontEnd Developer, mainly uses React.js, Vue.js</li>
-
 <br />
 <!-- <img src="https://img.shields.io/badge/Scss-green?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/arduino-green?style=for-the-badge&logo=arduino&logoColor=00979D"/>
