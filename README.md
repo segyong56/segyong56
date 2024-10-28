@@ -1,9 +1,8 @@
 <h2> About Me 👋 </h3>
 
 <h3>👩🏻‍💻 front-end Developer</h4>
-<li>Interested in software architects and healthcare platforms</li>
 <li>FrontEnd Developer, mainly uses React.js, Vue.js</li>
-<li>I've worked as an occupational therapist🏥 for five years.</li>
+
 <br />
 <!-- <img src="https://img.shields.io/badge/Scss-green?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/arduino-green?style=for-the-badge&logo=arduino&logoColor=00979D"/>
